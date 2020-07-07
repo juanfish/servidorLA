@@ -1,0 +1,41 @@
+
+    {
+        "Finales" : [
+            {   
+                "id" : "1",
+                "nombre" : "juan",
+                "apellido" : "figuera"
+            },
+            {   
+                "id" : "2",
+                "nombre" : "Vanessa",
+                "apellido" : "A."
+            },
+            {   
+                "id" : "3",
+                "nombre" : "Roberto",
+                "apellido" : "Prosperi"
+            },
+            {   
+                "id" : "4",
+                "nombre" : "Roberto",
+                "apellido" : "prosp"
+            },
+            {   
+                "id" : "5",
+                "nombre" : "luis",
+                "apellido" : "aranda"
+            }
+        ],
+        "adicionales" : [
+            {
+                "id" : 1,
+                "residencia" : "caracas"
+            },
+            {
+                "id" :2,
+                "residencia" : "la paz"
+
+            }
+        ]
+    }
