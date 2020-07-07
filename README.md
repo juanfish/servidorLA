@@ -2,11 +2,23 @@
 
 Permite ejecutar un pequeño servidor local con JSON-SERVER
 
-## Instalacion
+## Instalacion 🔧
 
-Ejecutar la instruccion `npm i` para instalar las dependencias de JSON-SERVER
+Ejecutar la siguiente instruccion para instalar las dependencias de JSON-SERVER
+```
+npm i
+```
 
 
-## Levantar servicio
+## Levantar servicio ⚙️
 
-Ejecutar la instruccion `npm  run inicio` para crear la instancia del JSON-SERVER en el localhost:3000
+Ejecutar la siguiente instruccion para crear la instancia del JSON-SERVER en el localhost:3000
+
+```
+npm  run inicio
+````
+ 
+
+
+
+Disfruten 🍺
