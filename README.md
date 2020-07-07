@@ -1,7 +1,12 @@
-# TareaEstilos
+# servidorLA
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+Permite ejecutar un pequeño servidor local con JSON-SERVER
 
-## Development server
+## Instalacion
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Ejecutar la instruccion `npm i` para instalar las dependencias de JSON-SERVER
+
+
+## Levantar servicio
+
+Ejecutar la instruccion `npm  run inicio` para crear la instancia del JSON-SERVER en el localhost:3000
